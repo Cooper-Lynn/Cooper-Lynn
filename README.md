@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student at the University of Hertfordshire for a Bachelors in Computer Science with a Software Engineering Focus<br>My favourite language is C++, although that's not the only one I can use.<br>My current project is my Poker Game for my final project at university, it is created in C++ from scratch and includes Machine Learning opponents
+I am currently a student at the University of Hertfordshire on my third year for a Bachelors in Computer Science with a Software Engineering focus<br>My favourite language is C++, although I am profficient in many more.<br>My current project is my Poker Game for my final project at university, it is created in C++ from scratch and includes Machine Learning opponents
 
 
 ## 🌐 Socials:
